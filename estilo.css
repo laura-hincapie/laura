@@ -1,3 +1,4 @@
+
 *{
 
     padding: 0px;
@@ -11,13 +12,16 @@
     
     body{
     
-    background-image: url("fondo.jpg");
+    background-image: url("imagen4.jpg");
     
     background-repeat: no-repeat;
     background-size: cover;
     
     }
-    
+    .fondosociales{ 
+        background-image: url("imagen4.jpg");
+        background-size: cover;
+    }
     
     
     .img{
@@ -38,7 +42,7 @@
     
     left: 180px;
     
-    background-image: url("medellin.jpeg");
+    background-image: url("imagen4.jpg");
     
     }
     
@@ -63,3 +67,4 @@
      
     
     }
+    

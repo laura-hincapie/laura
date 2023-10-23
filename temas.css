@@ -1,57 +1,68 @@
 .contenedor{
     width: 100%;
-    height: 1400px;
-    background-color: antiquewhite;
+    height: 1200px;
+    background-color: rgb(245, 6, 97);
 }
 .encabezado{
     width: 100%;
     height: 150px;
-    background-color: thistle;
+ background-color: rgb(143, 14, 148);
+ text-align: center;
+ font-size: 35px;
 }
 .menu{
     width: 100%;
-    height: 80px;
-    background-color: white;
+    height: 50px;
+    background-color: rgb(23, 96, 231);
     display: flex;
 }
 .contenedor2{
-    width: 100%;
-
-    height: 1200px;
-    background-color: plum;
+    width: 120%;
+    height: 1000px;
+    background-color: rgb(153, 16, 16);
     display: flex;
 }
 .izquierda{
-    width: 20%;
-    height: 1200px;
-    background-color: lavenderblush;
+  width: 20%;  
+  height: 1000px;
+  background-color: rgb(3, 247, 56);
+  color: rgb(76, 243, 243);
+  text-align: center;
+  font-size: 25px;
 }
 .centro{
     width: 60%;
-    height: 1200px;
-    background-color: lightpink;
+    height: 1001px;
+    background-color: rgb(16, 213, 219);
+    margin: 2px;
 }
 .derecha{
     width: 20%;
-    height: 1200px;
-    background-color: mistyrose;
-}
-.Ingles{
-    width: 100px;
-    height: 78px;
-    background-color: pink;
-    margin: 2px;
-
-}
-.Matematicas{
-    width: 100px;
-    height: 78px;
-    background-color: pink;
+    height: 1000px;
+    background-color: rgb(238, 241, 243);
     margin: 2px;
 }
-.Biologia{
+.tecnologia{
     width: 100px;
-    height: 78px;
-    background-color: pink;
+    height: 48px;
+    background-color: azure;
+    margin: 2px;
+}
+.sociales{
+    width: 100px;
+    height: 48px;
+    background-color: azure;
+    margin: 2px;
+}
+.biologia{
+    width: 100px;
+    height: 48px;
+    background-color: azure;
+    margin: 2px;
+}
+.matematicas{
+    width: 100px;
+    height: 48px;
+    background-color: azure;
     margin: 2px;
 }
